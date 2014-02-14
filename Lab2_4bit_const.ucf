@@ -1,0 +1,15 @@
+NET "Ain<0>" LOC = "G18";
+NET "Ain<1>" LOC = "H18";
+NET "Ain<2>" LOC = "K18";
+NET "Ain<3>" LOC = "K17";
+NET "Bin<0>" LOC = "L14";
+NET "Bin<1>" LOC = "L13";
+NET "Bin<2>" LOC = "N17";
+NET "Bin<3>" LOC = "R17";
+NET "Sub" LOC = "B18";
+
+NET "Sum<0>" LOC = "J14";
+NET "Sum<1>" LOC = "J15";
+NET "Sum<2>" LOC = "K15";
+NET "Sum<3>" LOC = "K14";
+NET "Over" LOC = "R4";
